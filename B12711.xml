@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The care vvich vvee haue had, and paines vvhich wee haue taken to settle the affaires of this Church of England in an uniformitie as well of doctrine, as of gouernment, ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12711</idno><idno type="EEBO-CITATION">99892765</idno>
+  <idno type="VID">187137</idno>
+  <idno type="EEBO-PROQUEST">2240933949</idno>
+  
+            <idno type="STC">STC 8355</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.10[41]</idno>
+            <idno type="PROQUEST">ocm99892765</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892765e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12711)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187137)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:1[41])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The care vvich vvee haue had, and paines vvhich wee haue taken to settle the affaires of this Church of England in an uniformitie as well of doctrine, as of gouernment, ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most Excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1604.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from opening lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end: Otelands the sixteenth day of Iuly, 1604 in the second yeere of our raigne ...</note>
+                  <note>Requiring that ministers conform to the Church of England by 30 Nov. Cf. STC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Book of common prayer --  Early works to 1800.</term>
+               <term type="topical_term">Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term type="topical_term">Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+               <term type="topical_term">Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:187137:1"/>
+            <head>By the King.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Care which Wee haue had, and Paines which</hi> Wee haue taken to settle the Affaires of this Church of England in an Vni<g ref="char:EOLhyphen"/>formitie as well of Doctrine, as of Gouernment, both of them agreeable to the Word of God, the Doctrine of the Primitiue Church, and the Lawes heretofore established for those matters in this Realme, may sufficiently appeare by our former Actions. For no sooner did the Infection of the Plague, raigning immediatly after Our entry into this Kingdome, giue Vs leaue to haue any Assembly, but Wee held at Our Honor of Hampton Court for that purpose a Conference betweene some principall Bishops and Deanes of this Church, and such other Learned men as vnderstood or fauoured the Opinions of those that seeke Alteration, before our Selfe and our Councell. Of which Conference the issue was, That no well grounded matter appeared to Vs or our sayd Councell, why the State of the Church here by Law established, should in any materiall point be altered, Nor did those that before had seemed to affect such Altera<g ref="char:EOLhyphen"/>tion, when they heard the contrarie Arguments, greatly insist vpon it, but seemed to be satisfied them<g ref="char:EOLhyphen"/>selues, and to vndertake within reasonable time to satisfie all others that were misse-led with opinion that there was any iust cause of Alteration, Whereupon we published by our Proclamation what had beene the Issue of that Conference, hoping that when the same should be made knowen, all reasona<g ref="char:EOLhyphen"/>ble men would haue rested satisfied with that which had beene done, and not haue mooued further trouble or speech of matters, whereof so solemne and aduised Determination had beene made. Not<g ref="char:EOLhyphen"/>withstanding, at the late Assembly of our Parliament, there wanted not many that renewed with no little earnestnesse the Questions before determined, and many more aswell about the Booke of Common Prayer, as other matters of Church Gouernment, and importuned Vs for our Assent to many Alterations therein: But yet with such successe, as when they had heard both Our owne spee<g ref="char:EOLhyphen"/>ches made vnto them at sundry times, shewing the Reasons of Our former proceedings in those mat<g ref="char:EOLhyphen"/>ters, And likewise had had Conference with some Bishops, and other Lords of the vpper House a<g ref="char:EOLhyphen"/>bout the same, they desisted from further prosecution thereof; finding, that of all things that might any way tend to the furtherance of Religion, and establishment of a Ministerie fit for the same, Wee had before with the aduise of our Counsel, had such consideration, as the present state of things would beare, And taken order how the same should be prosecuted by such meanes, as might be vsed without any publique disturbance or Innouation: And so the end of all their motions and ouertures falling out to be none other in Substance, then was before at the Conference at Hampton Court, That is, that no apparant or grounded Reason was shewed, why either the booke of Common Prayer, or the Church discipline here by Law established should be changed (which were vnreasonable) considering that particular and personall abuses are remediable otherwise, then by making generall Alterations: Wee haue thought good once againe to giue notice thereof to all our Subiects, by publike Declara<g ref="char:EOLhyphen"/>tion, who We doubt not but will receiue great satisfaction, when they shall vnderstand that after so much impugning, there appeareth no cause why the forme of the Seruice of God, wherein they haue beene nourished so many yeeres, should be changed: And consequently to admonish them all in gene<g ref="char:EOLhyphen"/>rall to conforme themselues thereunto, without listning to the troublesome spirits of some Persons, who neuer receiue contentment, either in Ciuill, or Ecclesiasticall matters, but in their owne fantasies, especially of certaine Ministers, who vnder pretended Zeale of Reformation, are the chiefe Authors
+<pb facs="tcp:187137:2"/>of Diuisions and Sects among our people. Of many of which, we hope that now, when they shal see that such things as they haue proposed for Alteration, prooue vpon tryall so weakely grounded, as de<g ref="char:EOLhyphen"/>serue not admittance, they will out of their owne iudgement conforme themselues to better aduice, and not omit the principall &amp; substantial parts of their duties, for shadowes &amp; semblances of Zeale, but ra<g ref="char:EOLhyphen"/>ther bend their strength with our intent to ioyne in one end, that is, the establishing of the Gospel, and recouering of our People seduced out of the hands of the common aduersaries of our Religion, which shal neuer be wel performed but by an Vniformitie of all our endeuours therin. But if our hope herein faile Vs, Wee must aduertise them, that our duetie towards God requireth at our hands, that what vntractable men doe not performe vpon admonition, they must bee compelled vnto by Authoritie, whereof the Supreme power resting in our hands, by Gods ordinance, Wee are bound to vse the same in nothing more, then in preseruation of the Churches tranquillitie, which by Gods grace We are fully purposed to doe: And yet by aduise of our Councell, and opinion of the Bishops, although our former Proclamations both before the Conference and since, ought to bee a sufficient warning and admoniti<g ref="char:EOLhyphen"/>on to all men, who are within the danger of them, Wee haue thought good to giue time to all Mini<g ref="char:EOLhyphen"/>sters disobedient to the Orders of the Church and to Ecclesiastical Authoritie here by Law established, and who for such disobedience, either in the dayes of the Queene our Sister of famous memorie decea<g ref="char:EOLhyphen"/>sed, or since our Reigne haue incurred any censures of the Church, or penalties of Lawes, vntill the last day of Nouember now next ensuing, to bethinke themselues of the course they will hold therein.</p>
+            <p>In which meane time both they may resolue either to conforme themselues to the Church of Eng<g ref="char:EOLhyphen"/>land, and obey the same: Or els to dispose of themselues and their families some other wayes, as to them shall seeme meete: And the Bishops and others whom it concerneth, prouide meete persons to be substitutes in the place of those who shall wilfully abandon their Charges vpon so sleight causes: Assuring them that after that day, We shall not faile to doe that which Princely prouidence requireth at Our hands: That is, to put in execution all wayes and meanes that may take from among Our people, all grounds and occasions of Sects, Diuisions, and Vnquietnesse: Whereof as We wish there may neuer be occasion giuen vs to make proofe, but that this our admonition may haue equall force in all mens hearts, to worke an vniuersal conformitie: So We do require all Archbishops, Bishops, and other Ecclesiastical persons, to do their vttermost endeuours by conferences, arguments, perswasions, and by all other wayes of loue and gentlenesse to reclaime all that be in the Ministerie, to the obedience of our Church Lawes; For which purpose only We haue enlarged the time formerly prefixed for their remooue or Reformation, to the end that if it be possible, that Vniformitie which Wee desire, may be wrought by Clemencie, and by weight of Reason, and not by Rigour of Law. And the like aduer<g ref="char:EOLhyphen"/>tisement doe We giue to all Ciuill Magistrates, Gentlemen, and others of vnderstanding, as well a<g ref="char:EOLhyphen"/>broad in the Counties, as in Cities and Townes, Requiring them also, not in any sort to support, fa<g ref="char:EOLhyphen"/>uour, or countenance any such factious Ministers in their obstinacie: of whose endeuours Wee doubt not, but so good successe may follow, as this Our admonition, with their indeuours, may preuent the vse of any other meanes to retaine our people in their due Obedience to Vs, and in Vnitie of minde, to the Seruice of Almighty God.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at our Mannour of Otelands <date>the sixteenth day of Iuly, 1604 in the second yeere of our Raigne of England, France, and Ireland, and of Scotland the seuen and thirtieth.</date>
+                  </hi>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Maiestie. Anno Dom. 1604.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
